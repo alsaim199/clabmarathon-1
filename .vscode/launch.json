@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/contest vjudge/c lab marathon-1",
-      "program": "d:/contest vjudge/c lab marathon-1/build/Debug/outDebug",
+      "cwd": "d:/contest vjudge/clabmarahton-1",
+      "program": "d:/contest vjudge/clabmarahton-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
