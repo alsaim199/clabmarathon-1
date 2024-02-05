@@ -14,7 +14,7 @@ void solve(){
     sum=(a+b+c+d);
     sum+=(max((e+f),(e+g),(f+g)))/2;
     char ch;
-    printf("%d\n",sum);
+    //printf("%d\n",sum);
     if(sum>=90) ch='A';
     else if(sum>=80) ch='B';
     else if(sum>=70) ch='C';
